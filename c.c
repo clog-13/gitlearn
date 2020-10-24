@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main {
-    printf("helloworld\n");
+    printf("hello rebase\n");
     return 1;
 }
